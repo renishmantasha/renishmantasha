@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renishmantasha
-- 👀 I’m interested in Application development.
+- 👀 I’m interested in Application development and AWS.
 - 🌱 I’m currently learning learning java, kotlin.
 - 💞️ I’m looking to collaborate on Application development project.
 - 📫 How to reach me by my email.
